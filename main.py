@@ -3,26 +3,22 @@ from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from pathlib import Path
-import json
+# import json # No longer needed for loading, but keep if used elsewhere
 from typing import List, Dict, Optional, Any, Tuple
-import httpx # Import httpx
+# import httpx # No longer needed
 
 from thefuzz import fuzz
+from data import data as RESULTS_DATA_STORE # Import the data directly
 
 # --- Configuration ---
 BASE_DIR = Path(__file__).resolve().parent
-# JSON_FILENAME = "results.json" # No longer reading from a local file directly
-# JSON_DATA_PATH = BASE_DIR / JSON_FILENAME
-JSON_DATA_URL = "https://6e69rsh8dqy6qfjr.public.blob.vercel-storage.com/results-QevAmcRFR28bF5A5vue9SEdZn51R2V.json" # Your Vercel Blob URL
+# JSON_DATA_URL = "..." # No longer needed
 TEMPLATES_DIR = BASE_DIR / "templates"
 STATIC_DIR = BASE_DIR / "static"
 
 # --- Fuzzy Search Configuration ---
 SIMILARITY_THRESHOLD = 70
 MAX_FUZZY_RESULTS = 10
-
-# --- Global variable to hold loaded JSON data ---
-RESULTS_DATA_STORE: Dict[str, Any] = {}
 
 app = FastAPI(title="CBSE Result Viewer")
 
@@ -34,43 +30,22 @@ PHYSICAL_EDUCATION_SUBJECT_CODES = ["048", "843"]
 PHYSICAL_EDUCATION_SUBJECT_KEYWORDS = ["PHYSICAL EDUCATION", "PHY.EDUCATION", "HEALTH & PHYSICAL EDUCATION", "ARTIFICIAL INTELLIGENCE"]
 DEFAULT_MAX_MARKS_PER_SUBJECT = 100
 
-# --- Startup Event to Load JSON Data from URL ---
-@app.on_event("startup")
-async def load_data_from_url():
-    global RESULTS_DATA_STORE
-    print(f"Attempting to load data from URL: {JSON_DATA_URL}")
-    try:
-        async with httpx.AsyncClient(timeout=30.0) as client: # Increased timeout for potentially large files
-            response = await client.get(JSON_DATA_URL)
-            response.raise_for_status()  # Raise an exception for HTTP errors (4xx or 5xx)
-            RESULTS_DATA_STORE = response.json() # Directly parse JSON from response
-            print(f"Successfully loaded and parsed JSON data from URL. Found {len(RESULTS_DATA_STORE)} records.")
-    except httpx.HTTPStatusError as e:
-        print(f"ERROR: HTTP error occurred while fetching data from URL: {e.request.url} - {e.response.status_code}")
-        RESULTS_DATA_STORE = {}
-    except httpx.RequestError as e:
-        print(f"ERROR: Request error occurred while fetching data from URL: {e.request.url} - {e}")
-        RESULTS_DATA_STORE = {}
-    except json.JSONDecodeError as e:
-        print(f"ERROR: Could not decode JSON from URL response. Error: {e}")
-        RESULTS_DATA_STORE = {}
-    except Exception as e:
-        print(f"ERROR: An unexpected error occurred while loading data from URL. Error: {e}")
-        RESULTS_DATA_STORE = {}
 
-    if not RESULTS_DATA_STORE:
-        print("WARNING: RESULTS_DATA_STORE is empty after attempting to load from URL.")
-
+# --- No longer need a startup event to load data, it's imported directly ---
+# @app.on_event("startup")
+# async def load_data_from_url():
+#     pass # Data is now available as RESULTS_DATA_STORE
 
 def check_data_status() -> Dict[str, Any]:
-    """Checks if the JSON data was loaded successfully."""
+    """Checks if the imported data is available."""
     return {
-        "loaded": bool(RESULTS_DATA_STORE),
-        "source_url": JSON_DATA_URL, # Indicate the source
+        "loaded": bool(RESULTS_DATA_STORE), # True if data store is not empty
+        "source": "data.py internal variable",
         "record_count": len(RESULTS_DATA_STORE)
     }
 
 # --- Helper Functions (get_student_data_from_json, calculate_student_percentages_from_json - keep as is) ---
+# These functions will now directly use the imported RESULTS_DATA_STORE
 def get_student_data_from_json(roll_no: str) -> Optional[Dict[str, Any]]:
     return RESULTS_DATA_STORE.get(roll_no)
 
@@ -102,7 +77,7 @@ def calculate_student_percentages_from_json(subjects_dict: Dict[str, Dict[str, s
 
     percentage_overall = round((total_obtained_all / (num_scorable_subjects_all * DEFAULT_MAX_MARKS_PER_SUBJECT)) * 100, 2) if num_scorable_subjects_all > 0 and (num_scorable_subjects_all * DEFAULT_MAX_MARKS_PER_SUBJECT) > 0 else None
     percentage_excluding_pe = None
-    if num_scorable_subjects_no_pe > 0 and (num_scorable_subjects_no_pe * DEFAULT_MAX_MARKS_PER_SUBJECT) > 0:
+    if num_scorable_subjects_no_pe > 0 and (num_scorable_subjects_no_pe * DEFAULT_MAX_MARKS_PER_SUBJECT) > 0 :
         percentage_excluding_pe = round((total_obtained_no_pe / (num_scorable_subjects_no_pe * DEFAULT_MAX_MARKS_PER_SUBJECT)) * 100, 2)
     elif not found_pe_subject and percentage_overall is not None:
         percentage_excluding_pe = percentage_overall
@@ -113,11 +88,11 @@ def calculate_student_percentages_from_json(subjects_dict: Dict[str, Dict[str, s
         "found_pe_subject": found_pe_subject
     }
 
-# --- Routes (read_root, search_results_page - modify slightly for data_status key name) ---
+
+# --- Routes (read_root, search_results_page - minor changes for data_status) ---
 @app.get("/", response_class=HTMLResponse)
 async def read_root(request: Request):
     data_status = check_data_status()
-    # Using data_status for the template to avoid confusion with old db_status
     return templates.TemplateResponse("index.html", {"request": request, "data_status": data_status})
 
 
@@ -129,7 +104,7 @@ async def search_results_page(
     results_to_display = []
     search_performed = bool(candidate_name)
     error_message = None
-    data_status = check_data_status() # Get current data status
+    data_status = check_data_status()
 
     if not candidate_name:
         search_performed = False
@@ -139,8 +114,8 @@ async def search_results_page(
             "error_message": error_message, "candidate_name_query": candidate_name
         })
 
-    if not data_status["loaded"]: # Check if data was successfully loaded from URL
-        error_message = f"Data could not be loaded from the source ({data_status.get('source_url', 'configured URL')}). Search unavailable."
+    if not data_status["loaded"]:
+        error_message = "Data is not available from data.py. Search unavailable."
         return templates.TemplateResponse("results.html", {
             "request": request, "results_data": [], "search_performed": search_performed,
             "error_message": error_message, "candidate_name_query": candidate_name
@@ -150,7 +125,7 @@ async def search_results_page(
         potential_matches: List[Tuple[str, str, int]] = []
         search_name_lower = candidate_name.lower()
 
-        for roll_no, student_info in RESULTS_DATA_STORE.items(): # Iterate over the global store
+        for roll_no, student_info in RESULTS_DATA_STORE.items():
             db_name = student_info.get("candidate_name", "")
             db_name_lower = db_name.lower()
             score = fuzz.token_set_ratio(search_name_lower, db_name_lower)
@@ -164,7 +139,7 @@ async def search_results_page(
             if len(results_to_display) >= MAX_FUZZY_RESULTS: break
             if roll_no_match in distinct_roll_nos_processed: continue
             
-            student_full_data = get_student_data_from_json(roll_no_match)
+            student_full_data = get_student_data_from_json(roll_no_match) # Uses the imported global data
             if student_full_data:
                 student_details = {
                     "roll_no": roll_no_match,
@@ -213,8 +188,8 @@ async def search_results_page(
 # --- For local development ---
 if __name__ == "__main__":
     import uvicorn
+    print("Data is imported directly from data.py.")
+    print(f"Number of records available: {len(RESULTS_DATA_STORE)}")
     print("Ensure Tailwind CSS is built. For dev: 'npm run watch:css'.")
-    print("Starting Uvicorn server. Will load data from URL on startup.")
-    print(f"Data URL: {JSON_DATA_URL}")
-    print("Access at http://127.0.0.1:8000")
-    uvicorn.run(app, host="127.0.0.1", port=8000, reload=False)
+    print("Starting Uvicorn server. Access at http://127.0.0.1:8000")
+    uvicorn.run(app, host="127.0.0.1", port=8000, reload=False) # reload=True could cause issues if data.py is very large and re-imported often
