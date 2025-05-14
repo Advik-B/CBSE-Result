@@ -23,7 +23,15 @@ MAX_FUZZY_RESULTS = 10     # Limit the number of displayed fuzzy search results
 
 app = FastAPI(title="CBSE Result Viewer")
 
-app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
+app.mount("/static", StaticFiles(directory=STATIC_DIR, html=False), name="static")
+
+@app.middleware("http")
+async def set_css_content_type(request: Request, call_next):
+    response = await call_next(request)
+    if request.url.path.startswith("/static/css") and response.status_code == 200:
+        response.headers["Content-Type"] = "text/css"
+    return response
+
 templates = Jinja2Templates(directory=str(TEMPLATES_DIR))
 
 # --- Constants for Percentage Calculation (from previous step) ---
