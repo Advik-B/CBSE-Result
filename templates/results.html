@@ -39,11 +39,24 @@
                 {% if results_data %}
                     {% for student_data in results_data %}
                         <div class="mb-10 p-4 sm:p-6 border border-gray-200 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 ease-in-out">
-                            <h2 class="text-2xl font-semibold text-indigo-700 mb-4">
-                                {{ student_data.details.candidate_name }}
-                                <!-- Optional: Display fuzzy match score for debugging/info -->
-                                <!-- <span class="text-xs text-gray-400">(Score: {{ student_data.match_score }})</span> -->
-                            </h2>
+                            <div class="flex justify-between items-start mb-4">
+                                <h2 class="text-2xl font-semibold text-indigo-700">
+                                    {{ student_data.details.candidate_name }}
+                                    {% if student_data.match_score %}
+                                        <span class="text-xs text-gray-400 ml-2">(Match: {{ student_data.match_score }}%)</span>
+                                    {% endif %}
+                                </h2>
+                                {% if student_data.details.result_status %}
+                                    <span class="px-3 py-1 text-sm font-semibold rounded-full
+                                        {% if student_data.details.result_status == 'PASS' %} bg-green-100 text-green-700
+                                        {% elif student_data.details.result_status == 'FAIL' %} bg-red-100 text-red-700
+                                        {% elif student_data.details.result_status == 'ABST' %} bg-yellow-100 text-yellow-700
+                                        {% else %} bg-gray-100 text-gray-700 {% endif %}">
+                                        {{ student_data.details.result_status }}
+                                    </span>
+                                {% endif %}
+                            </div>
+
                             <div class="grid grid-cols-1 md:grid-cols-2 gap-x-6 gap-y-3 text-sm text-gray-700 mb-6">
                                 <p><strong class="font-medium text-gray-900">Roll Number:</strong> {{ student_data.details.roll_no }}</p>
                                 <p><strong class="font-medium text-gray-900">Mother's Name:</strong> {{ student_data.details.mother_name }}</p>
@@ -51,43 +64,42 @@
                                 <p class="md:col-span-2"><strong class="font-medium text-gray-900">School:</strong> {{ student_data.details.school_name }}</p>
                             </div>
 
-                            <!-- Percentage Display Section (from previous step, no changes needed here) -->
+                            <!-- Percentage Display Section -->
                             {% if student_data.percentages %}
                             <div class="my-6 p-4 bg-indigo-50 border border-indigo-200 rounded-lg">
                                 <h3 class="text-lg font-semibold text-indigo-800 mb-3">Result Summary</h3>
                                 <div class="space-y-2 text-sm">
                                     {% if student_data.percentages.percentage_overall is not none %}
                                     <p>
-                                        <strong class="text-gray-700">Overall Percentage:</strong>
+                                        <strong class="text-gray-700">Overall Percentage (Main Subjects + Addl.):</strong>
                                         <span class="font-bold text-xl text-indigo-700">{{ student_data.percentages.percentage_overall }}%</span>
                                         <span class="text-gray-500 italic">(based on {{ student_data.percentages.num_subjects_overall }} scorable subjects)</span>
                                     </p>
                                     {% else %}
-                                    <p><strong class="text-gray-700">Overall Percentage:</strong> <span class="text-gray-500">N/A (No scorable subjects found)</span></p>
+                                    <p><strong class="text-gray-700">Overall Percentage:</strong> <span class="text-gray-500">N/A</span></p>
                                     {% endif %}
 
                                     {% if student_data.percentages.percentage_excluding_pe is not none %}
-                                        {% if student_data.percentages.found_pe_subject %}
+                                        {% if student_data.percentages.found_pe_subject or (student_data.percentages.num_subjects_excluding_pe != student_data.percentages.num_subjects_overall) %}
                                         <p>
-                                            <strong class="text-gray-700">Percentage (Excl. P.E.):</strong>
+                                            <strong class="text-gray-700">Percentage (Main Subjects Only):</strong>
                                             <span class="font-bold text-xl text-indigo-700">{{ student_data.percentages.percentage_excluding_pe }}%</span>
-                                            <span class="text-gray-500 italic">(based on {{ student_data.percentages.num_subjects_excluding_pe }} scorable subjects)</span>
+                                            <span class="text-gray-500 italic">(based on {{ student_data.percentages.num_subjects_excluding_pe }} main scorable subjects)</span>
                                         </p>
                                         {% elif student_data.percentages.percentage_overall is not none %}
                                         <p>
-                                            <strong class="text-gray-700">Percentage (P.E. not found/scorable):</strong>
+                                            <strong class="text-gray-700">Percentage (Main Subjects Only):</strong>
                                             <span class="font-bold text-xl text-indigo-700">{{ student_data.percentages.percentage_excluding_pe }}%</span>
-                                            <span class="text-gray-500 italic">(based on {{ student_data.percentages.num_subjects_excluding_pe }} scorable subjects)</span>
+                                            <span class="text-gray-500 italic">(Additional/PE not found or not scorable)</span>
                                         </p>
                                         {% endif %}
                                     {% elif student_data.percentages.found_pe_subject %}
-                                        <p><strong class="text-gray-700">Percentage (Excl. P.E.):</strong> <span class="text-gray-500">N/A (No other scorable subjects)</span></p>
+                                        <p><strong class="text-gray-700">Percentage (Main Subjects Only):</strong> <span class="text-gray-500">N/A</span></p>
                                     {% endif %}
                                 </div>
                             </div>
                             {% endif %}
                             <!-- End of Percentage Display Section -->
-
 
                             {% if student_data.subjects %}
                                 <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Subject Marks</h3>
@@ -105,7 +117,8 @@
                                         </thead>
                                         <tbody class="bg-white divide-y divide-gray-200">
                                             {% for subject in student_data.subjects %}
-                                            <tr class="hover:bg-slate-50 transition-colors duration-150">
+                                            <tr class="hover:bg-slate-50 transition-colors duration-150
+                                                {% if subject.sub_code in ['500', '502', '503'] or subject.marks == '---' %} opacity-60 {% endif %}">
                                                 <td class="px-4 py-3 whitespace-nowrap text-sm text-gray-600">{{ subject.sub_code }}</td>
                                                 <td class="px-6 py-3 whitespace-nowrap text-sm font-medium text-gray-800">{{ subject.sub_name }}</td>
                                                 <td class="px-4 py-3 whitespace-nowrap text-sm text-gray-600 text-center">{{ subject.theory if subject.theory is not none else '-' }}</td>
@@ -130,7 +143,7 @@
                         No students found matching your criteria.
                     </div>
                 {% endif %}
-            {% elif not error_message %} <!-- This case might be hit if user directly goes to /search without params via URL -->
+            {% elif not error_message %}
                  <div class="p-4 bg-blue-50 border-l-4 border-blue-400 text-blue-700 rounded-md text-center">
                      Please enter a candidate name to search on the home page.
                  </div>
