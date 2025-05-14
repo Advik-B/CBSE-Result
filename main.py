@@ -40,7 +40,7 @@ def check_data_status() -> Dict[str, Any]:
     """Checks if the imported data is available."""
     return {
         "loaded": bool(RESULTS_DATA_STORE), # True if data store is not empty
-        "source": "data.py internal variable",
+        "source": "internal variable",
         "record_count": len(RESULTS_DATA_STORE)
     }
 
