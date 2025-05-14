@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='/css/output.css') }}">
+</head>
+<body class="bg-gradient-to-br from-slate-100 via-sky-50 to-indigo-100 min-h-screen p-4 sm:p-6 selection:bg-blue-500 selection:text-white">
+    <div class="max-w-5xl mx-auto">
+        <div class="mb-6">
+            <a href="/" class="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-colors">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
+                    <path fill-rule="evenodd" d="M9.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L7.414 9H15a1 1 0 110 2H7.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd" />
+                </svg>
+                New Search
+            </a>
+        </div>
+
+        <div class="bg-white p-6 sm:p-8 rounded-xl shadow-2xl">
+            <h1 class="text-3xl font-bold text-center text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-indigo-700 mb-8">
+                Search Results
+            </h1>
+
+            {% if error_message %}
+                <div class="mb-6 p-4 bg-red-50 border-l-4 border-red-500 text-red-700 rounded-md" role="alert">
+                    <p class="font-semibold">Error:</p>
+                    <p>{{ error_message }}</p>
+                </div>
+            {% endif %}
+
+            {% if search_performed %}
+                <div class="mb-6 p-3 bg-blue-50 border border-blue-200 text-blue-700 rounded-md text-sm italic">
+                    Showing results for:
+                    {% if candidate_name_query %} <strong class="font-semibold">Name like:</strong> "{{ candidate_name_query }}" {% endif %}
+                </div>
+
+                {% if results_data %}
+                    {% for student_data in results_data %}
+                        <div class="mb-10 p-4 sm:p-6 border border-gray-200 rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300 ease-in-out">
+                            <h2 class="text-2xl font-semibold text-indigo-700 mb-4">
+                                {{ student_data.details.candidate_name }}
+                                <!-- Optional: Display fuzzy match score for debugging/info -->
+                                <!-- <span class="text-xs text-gray-400">(Score: {{ student_data.match_score }})</span> -->
+                            </h2>
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-x-6 gap-y-3 text-sm text-gray-700 mb-6">
+                                <p><strong class="font-medium text-gray-900">Roll Number:</strong> {{ student_data.details.roll_no }}</p>
+                                <p><strong class="font-medium text-gray-900">Mother's Name:</strong> {{ student_data.details.mother_name }}</p>
+                                <p><strong class="font-medium text-gray-900">Father's Name:</strong> {{ student_data.details.father_name }}</p>
+                                <p class="md:col-span-2"><strong class="font-medium text-gray-900">School:</strong> {{ student_data.details.school_name }}</p>
+                            </div>
+
+                            <!-- Percentage Display Section (from previous step, no changes needed here) -->
+                            {% if student_data.percentages %}
+                            <div class="my-6 p-4 bg-indigo-50 border border-indigo-200 rounded-lg">
+                                <h3 class="text-lg font-semibold text-indigo-800 mb-3">Result Summary</h3>
+                                <div class="space-y-2 text-sm">
+                                    {% if student_data.percentages.percentage_overall is not none %}
+                                    <p>
+                                        <strong class="text-gray-700">Overall Percentage:</strong>
+                                        <span class="font-bold text-xl text-indigo-700">{{ student_data.percentages.percentage_overall }}%</span>
+                                        <span class="text-gray-500 italic">(based on {{ student_data.percentages.num_subjects_overall }} scorable subjects)</span>
+                                    </p>
+                                    {% else %}
+                                    <p><strong class="text-gray-700">Overall Percentage:</strong> <span class="text-gray-500">N/A (No scorable subjects found)</span></p>
+                                    {% endif %}
+
+                                    {% if student_data.percentages.percentage_excluding_pe is not none %}
+                                        {% if student_data.percentages.found_pe_subject %}
+                                        <p>
+                                            <strong class="text-gray-700">Percentage (Excl. P.E.):</strong>
+                                            <span class="font-bold text-xl text-indigo-700">{{ student_data.percentages.percentage_excluding_pe }}%</span>
+                                            <span class="text-gray-500 italic">(based on {{ student_data.percentages.num_subjects_excluding_pe }} scorable subjects)</span>
+                                        </p>
+                                        {% elif student_data.percentages.percentage_overall is not none %}
+                                        <p>
+                                            <strong class="text-gray-700">Percentage (P.E. not found/scorable):</strong>
+                                            <span class="font-bold text-xl text-indigo-700">{{ student_data.percentages.percentage_excluding_pe }}%</span>
+                                            <span class="text-gray-500 italic">(based on {{ student_data.percentages.num_subjects_excluding_pe }} scorable subjects)</span>
+                                        </p>
+                                        {% endif %}
+                                    {% elif student_data.percentages.found_pe_subject %}
+                                        <p><strong class="text-gray-700">Percentage (Excl. P.E.):</strong> <span class="text-gray-500">N/A (No other scorable subjects)</span></p>
+                                    {% endif %}
+                                </div>
+                            </div>
+                            {% endif %}
+                            <!-- End of Percentage Display Section -->
+
+
+                            {% if student_data.subjects %}
+                                <h3 class="text-xl font-semibold text-gray-800 mt-6 mb-3">Subject Marks</h3>
+                                <div class="overflow-x-auto rounded-lg border border-gray-200">
+                                    <table class="min-w-full divide-y divide-gray-200">
+                                        <thead class="bg-gradient-to-r from-slate-600 to-slate-700">
+                                            <tr>
+                                                <th scope="col" class="px-4 py-3 text-left text-xs font-semibold text-white uppercase tracking-wider">Sub Code</th>
+                                                <th scope="col" class="px-6 py-3 text-left text-xs font-semibold text-white uppercase tracking-wider">Subject Name</th>
+                                                <th scope="col" class="px-4 py-3 text-center text-xs font-semibold text-white uppercase tracking-wider">Theory</th>
+                                                <th scope="col" class="px-4 py-3 text-center text-xs font-semibold text-white uppercase tracking-wider">Practical/IA</th>
+                                                <th scope="col" class="px-4 py-3 text-center text-xs font-semibold text-white uppercase tracking-wider">Total Marks</th>
+                                                <th scope="col" class="px-4 py-3 text-center text-xs font-semibold text-white uppercase tracking-wider">Grade</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody class="bg-white divide-y divide-gray-200">
+                                            {% for subject in student_data.subjects %}
+                                            <tr class="hover:bg-slate-50 transition-colors duration-150">
+                                                <td class="px-4 py-3 whitespace-nowrap text-sm text-gray-600">{{ subject.sub_code }}</td>
+                                                <td class="px-6 py-3 whitespace-nowrap text-sm font-medium text-gray-800">{{ subject.sub_name }}</td>
+                                                <td class="px-4 py-3 whitespace-nowrap text-sm text-gray-600 text-center">{{ subject.theory if subject.theory is not none else '-' }}</td>
+                                                <td class="px-4 py-3 whitespace-nowrap text-sm text-gray-600 text-center">{{ subject.practical if subject.practical is not none else '-' }}</td>
+                                                <td class="px-4 py-3 whitespace-nowrap text-sm font-semibold text-indigo-700 text-center">{{ subject.marks if subject.marks is not none else '-' }}</td>
+                                                <td class="px-4 py-3 whitespace-nowrap text-sm text-gray-600 text-center">{{ subject.positional_grade if subject.positional_grade is not none else '-' }}</td>
+                                            </tr>
+                                            {% endfor %}
+                                        </tbody>
+                                    </table>
+                                </div>
+                            {% else %}
+                                <div class="mt-4 p-3 bg-yellow-50 border-l-4 border-yellow-400 text-yellow-700 rounded-md text-sm">
+                                    No subject results found for this student.
+                                </div>
+                            {% endif %}
+                        </div>
+                        {% if not loop.last %}<hr class="my-10 border-gray-300">{% endif %}
+                    {% endfor %}
+                {% elif not error_message %}
+                    <div class="p-4 bg-yellow-50 border-l-4 border-yellow-400 text-yellow-700 rounded-md text-center">
+                        No students found matching your criteria.
+                    </div>
+                {% endif %}
+            {% elif not error_message %} <!-- This case might be hit if user directly goes to /search without params via URL -->
+                 <div class="p-4 bg-blue-50 border-l-4 border-blue-400 text-blue-700 rounded-md text-center">
+                     Please enter a candidate name to search on the home page.
+                 </div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>

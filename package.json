@@ -1,0 +1,21 @@
+{
+  "name": "cbse-result-webapp",
+  "version": "1.0.0",
+  "description": "CBSE Result Webapp with FastAPI and Tailwind CSS",
+  "main": "main.py",
+  "scripts": {
+    "build:css": "tailwindcss -i ./input.css -o ./static/css/output.css --minify",
+    "watch:css": "tailwindcss -i ./input.css -o ./static/css/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.6"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.6"
+  }
+}

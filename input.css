@@ -1,0 +1,11 @@
+/* input.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom base styles or components here if needed */
+/* For example: */
+body {
+  /* Default body styles can be applied here or directly in templates with Tailwind classes */
+  /* @apply antialiased; */
+}
