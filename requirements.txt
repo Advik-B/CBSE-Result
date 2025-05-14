@@ -3,3 +3,4 @@ uvicorn[standard]
 Jinja2
 aiosqlite
 thefuzz
+httpx
