@@ -1,0 +1,5695 @@
+{
+    "28617741": {
+        "candidate_name": "ADYA AJIT",
+        "mother_name": "RANJEETA KUMARI",
+        "father_name": "AJIT KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ar745902",
+        "marks_percentage_without_add": 68.2,
+        "marks_percentage_with_add": 69.17,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "072",
+                "practical": "020",
+                "marks": "092",
+                "positional_grade": "A1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "027",
+                "practical": "020",
+                "marks": "047",
+                "positional_grade": "D1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "031",
+                "practical": "029",
+                "marks": "060",
+                "positional_grade": "C1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "030",
+                "practical": "030",
+                "marks": "060",
+                "positional_grade": "C1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "052",
+                "practical": "030",
+                "marks": "082",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "044",
+                "practical": "030",
+                "marks": "074",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617742": {
+        "candidate_name": "MANDAPATI SOWLAASYA",
+        "mother_name": "M LAHARI",
+        "father_name": "MANDAPATI RAMESH",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "mm745902",
+        "marks_percentage_without_add": 82.0,
+        "marks_percentage_with_add": 80.33,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "070",
+                "practical": "020",
+                "marks": "090",
+                "positional_grade": "A2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "057",
+                "practical": "020",
+                "marks": "077",
+                "positional_grade": "A2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "045",
+                "practical": "030",
+                "marks": "075",
+                "positional_grade": "A2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "047",
+                "practical": "030",
+                "marks": "077",
+                "positional_grade": "B1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "061",
+                "practical": "030",
+                "marks": "091",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "043",
+                "practical": "029",
+                "marks": "072",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617743": {
+        "candidate_name": "POLISETTI GEETIKA",
+        "mother_name": "POLISETTI NAGESWARI",
+        "father_name": "POLISETTI SRINIVAS",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "pp745902",
+        "marks_percentage_without_add": 81.4,
+        "marks_percentage_with_add": 82.5,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "064",
+                "practical": "020",
+                "marks": "084",
+                "positional_grade": "B1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "051",
+                "practical": "020",
+                "marks": "071",
+                "positional_grade": "B1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "047",
+                "practical": "030",
+                "marks": "077",
+                "positional_grade": "A2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "057",
+                "practical": "030",
+                "marks": "087",
+                "positional_grade": "A2"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "058",
+                "practical": "030",
+                "marks": "088",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "058",
+                "practical": "030",
+                "marks": "088",
+                "positional_grade": "A2"
+            }
+        }
+    },
+    "28617744": {
+        "candidate_name": "PRACHI KUMARI",
+        "mother_name": "ARADHANA KUMARI",
+        "father_name": "KAMAL NAYAN",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "pa745902",
+        "marks_percentage_without_add": 65.4,
+        "marks_percentage_with_add": 68.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "058",
+                "practical": "020",
+                "marks": "078",
+                "positional_grade": "B2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "028",
+                "practical": "020",
+                "marks": "048",
+                "positional_grade": "D1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "038",
+                "practical": "030",
+                "marks": "068",
+                "positional_grade": "B1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "034",
+                "practical": "030",
+                "marks": "064",
+                "positional_grade": "C1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "040",
+                "practical": "029",
+                "marks": "069",
+                "positional_grade": "C2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A2"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "055",
+                "practical": "030",
+                "marks": "085",
+                "positional_grade": "A2"
+            }
+        }
+    },
+    "28617745": {
+        "candidate_name": "PRATIBHA MADIYALAGAN",
+        "mother_name": "PRIYA MADIYALAGAN",
+        "father_name": "RAMANUJAM MADIYALAGAN",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "pp745902",
+        "marks_percentage_without_add": 63.8,
+        "marks_percentage_with_add": 64.0,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "053",
+                "practical": "020",
+                "marks": "073",
+                "positional_grade": "C1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "030",
+                "practical": "020",
+                "marks": "050",
+                "positional_grade": "C2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "033",
+                "practical": "030",
+                "marks": "063",
+                "positional_grade": "B2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "028",
+                "practical": "030",
+                "marks": "058",
+                "positional_grade": "C2"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "045",
+                "practical": "030",
+                "marks": "075",
+                "positional_grade": "C1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A2"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "035",
+                "practical": "030",
+                "marks": "065",
+                "positional_grade": "C2"
+            }
+        }
+    },
+    "28617746": {
+        "candidate_name": "SARIPALLI DHARANI",
+        "mother_name": "SARIPALLI VENU MADHAVI",
+        "father_name": "SARIPALLI SURESH RAJU",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ss745902",
+        "marks_percentage_without_add": 75.2,
+        "marks_percentage_with_add": 76.17,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "062",
+                "practical": "020",
+                "marks": "082",
+                "positional_grade": "B1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "037",
+                "practical": "020",
+                "marks": "057",
+                "positional_grade": "C1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "041",
+                "practical": "030",
+                "marks": "071",
+                "positional_grade": "B1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "044",
+                "practical": "030",
+                "marks": "074",
+                "positional_grade": "B1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "062",
+                "practical": "030",
+                "marks": "092",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A2"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "052",
+                "practical": "029",
+                "marks": "081",
+                "positional_grade": "B1"
+            }
+        }
+    },
+    "28617747": {
+        "candidate_name": "V GIRIJA",
+        "mother_name": "M SHYAMALA",
+        "father_name": "V BHASKAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "ABST",
+        "admit_id": "vm745902",
+        "marks_percentage_without_add": null,
+        "marks_percentage_with_add": null,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "",
+                "practical": "",
+                "marks": "",
+                "positional_grade": ""
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "",
+                "practical": "",
+                "marks": "",
+                "positional_grade": ""
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "",
+                "practical": "",
+                "marks": "",
+                "positional_grade": ""
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "",
+                "practical": "",
+                "marks": "",
+                "positional_grade": ""
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "",
+                "positional_grade": ""
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": ""
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": ""
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": ""
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "",
+                "positional_grade": ""
+            }
+        }
+    },
+    "28617748": {
+        "candidate_name": "VISHWANATH ASHVITHA",
+        "mother_name": "VISHWANATH LATHA",
+        "father_name": "VISHWANATH OM PRAKASH",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "vv745902",
+        "marks_percentage_without_add": 72.0,
+        "marks_percentage_with_add": 72.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "053",
+                "practical": "020",
+                "marks": "073",
+                "positional_grade": "C1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "045",
+                "practical": "020",
+                "marks": "065",
+                "positional_grade": "B2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "031",
+                "practical": "030",
+                "marks": "061",
+                "positional_grade": "C1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "042",
+                "practical": "030",
+                "marks": "072",
+                "positional_grade": "B1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "059",
+                "practical": "030",
+                "marks": "089",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A2"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "047",
+                "practical": "030",
+                "marks": "077",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617749": {
+        "candidate_name": "ARYAN RAJ",
+        "mother_name": "BINDU RANI",
+        "father_name": "DEEPAK KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ab745902",
+        "marks_percentage_without_add": 87.0,
+        "marks_percentage_with_add": 87.5,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "067",
+                "practical": "020",
+                "marks": "087",
+                "positional_grade": "A2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "060",
+                "practical": "020",
+                "marks": "080",
+                "positional_grade": "A2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "057",
+                "practical": "030",
+                "marks": "087",
+                "positional_grade": "A1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "059",
+                "practical": "030",
+                "marks": "089",
+                "positional_grade": "A1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "062",
+                "practical": "030",
+                "marks": "092",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "061",
+                "practical": "029",
+                "marks": "090",
+                "positional_grade": "A1"
+            }
+        }
+    },
+    "28617750": {
+        "candidate_name": "BATTULA VISHRUTH",
+        "mother_name": "S VEENA RANI",
+        "father_name": "B L PRAMOD KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "bs755902",
+        "marks_percentage_without_add": 63.8,
+        "marks_percentage_with_add": 65.0,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "043",
+                "practical": "020",
+                "marks": "063",
+                "positional_grade": "D1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "030",
+                "practical": "020",
+                "marks": "050",
+                "positional_grade": "C2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "034",
+                "practical": "029",
+                "marks": "063",
+                "positional_grade": "B2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "032",
+                "practical": "029",
+                "marks": "061",
+                "positional_grade": "C1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "053",
+                "practical": "029",
+                "marks": "082",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "041",
+                "practical": "030",
+                "marks": "071",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617751": {
+        "candidate_name": "BOMMU ADVIK",
+        "mother_name": "B SIRISHA",
+        "father_name": "B KEERTI KIRAN",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "bb755902",
+        "marks_percentage_without_add": 71.2,
+        "marks_percentage_with_add": 71.17,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "055",
+                "practical": "020",
+                "marks": "075",
+                "positional_grade": "C1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "032",
+                "practical": "019",
+                "marks": "051",
+                "positional_grade": "C2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "046",
+                "practical": "029",
+                "marks": "075",
+                "positional_grade": "A2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "035",
+                "practical": "030",
+                "marks": "065",
+                "positional_grade": "B2"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "060",
+                "practical": "030",
+                "marks": "090",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "041",
+                "practical": "030",
+                "marks": "071",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617752": {
+        "candidate_name": "DHAIRYA JAISWAL",
+        "mother_name": "ALKA JAISWAL",
+        "father_name": "DHIRENDRA KUMAR JAISWAL",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "da755902",
+        "marks_percentage_without_add": 76.8,
+        "marks_percentage_with_add": 79.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "066",
+                "practical": "020",
+                "marks": "086",
+                "positional_grade": "B1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "041",
+                "practical": "020",
+                "marks": "061",
+                "positional_grade": "B2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "047",
+                "practical": "030",
+                "marks": "077",
+                "positional_grade": "A2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "042",
+                "practical": "030",
+                "marks": "072",
+                "positional_grade": "B1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "058",
+                "practical": "030",
+                "marks": "088",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "065",
+                "practical": "030",
+                "marks": "095",
+                "positional_grade": "A1"
+            }
+        }
+    },
+    "28617753": {
+        "candidate_name": "ERIKILLA MANISH",
+        "mother_name": "ERIKILLA JYOSNA",
+        "father_name": "ERIKILLA CHANDRAIAH",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ee755902",
+        "marks_percentage_without_add": 71.4,
+        "marks_percentage_with_add": 72.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "065",
+                "practical": "020",
+                "marks": "085",
+                "positional_grade": "B1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "031",
+                "practical": "020",
+                "marks": "051",
+                "positional_grade": "C2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "042",
+                "practical": "030",
+                "marks": "072",
+                "positional_grade": "B1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "032",
+                "practical": "030",
+                "marks": "062",
+                "positional_grade": "C1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "057",
+                "practical": "030",
+                "marks": "087",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A2"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "050",
+                "practical": "029",
+                "marks": "079",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617754": {
+        "candidate_name": "GUJJARI KARTHIK KRISHNA",
+        "mother_name": "GUJJARI SIREESHA",
+        "father_name": "GUJJARI SRINIVASULU",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "gg755902",
+        "marks_percentage_without_add": 87.2,
+        "marks_percentage_with_add": 87.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "062",
+                "practical": "020",
+                "marks": "082",
+                "positional_grade": "B1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "061",
+                "practical": "020",
+                "marks": "081",
+                "positional_grade": "A2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "062",
+                "practical": "030",
+                "marks": "092",
+                "positional_grade": "A1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "065",
+                "practical": "030",
+                "marks": "095",
+                "positional_grade": "A1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "056",
+                "practical": "030",
+                "marks": "086",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "061",
+                "practical": "030",
+                "marks": "091",
+                "positional_grade": "A1"
+            }
+        }
+    },
+    "28617755": {
+        "candidate_name": "K BHUVAN CHANDRA",
+        "mother_name": "KALAMANDA RAMADEVI",
+        "father_name": "KALAMANDA SATHENDER",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "kk755902",
+        "marks_percentage_without_add": 62.8,
+        "marks_percentage_with_add": 62.17,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "051",
+                "practical": "020",
+                "marks": "071",
+                "positional_grade": "C1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "027",
+                "practical": "019",
+                "marks": "046",
+                "positional_grade": "D1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "027",
+                "practical": "030",
+                "marks": "057",
+                "positional_grade": "C2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "030",
+                "practical": "030",
+                "marks": "060",
+                "positional_grade": "C1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "050",
+                "practical": "030",
+                "marks": "080",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A2"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "029",
+                "practical": "030",
+                "marks": "059",
+                "positional_grade": "D1"
+            }
+        }
+    },
+    "28617756": {
+        "candidate_name": "KOTHURI SHIVAMANI",
+        "mother_name": "KOTHURI LAXMI",
+        "father_name": "KOTHURI RAJU",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "kk755902",
+        "marks_percentage_without_add": 73.2,
+        "marks_percentage_with_add": 73.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "048",
+                "practical": "020",
+                "marks": "068",
+                "positional_grade": "C2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "048",
+                "practical": "020",
+                "marks": "068",
+                "positional_grade": "B1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "038",
+                "practical": "030",
+                "marks": "068",
+                "positional_grade": "B1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "042",
+                "practical": "030",
+                "marks": "072",
+                "positional_grade": "B1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "060",
+                "practical": "030",
+                "marks": "090",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "047",
+                "practical": "030",
+                "marks": "077",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617757": {
+        "candidate_name": "MARUJOLLA VENKATA SURENDRANATH",
+        "mother_name": "M PENCHALAMMA",
+        "father_name": "M VENKATESHWARLU",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "mm755902",
+        "marks_percentage_without_add": 72.8,
+        "marks_percentage_with_add": 73.17,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "049",
+                "practical": "020",
+                "marks": "069",
+                "positional_grade": "C2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "038",
+                "practical": "020",
+                "marks": "058",
+                "positional_grade": "C1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "047",
+                "practical": "030",
+                "marks": "077",
+                "positional_grade": "A2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "046",
+                "practical": "030",
+                "marks": "076",
+                "positional_grade": "B1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "054",
+                "practical": "030",
+                "marks": "084",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "045",
+                "practical": "030",
+                "marks": "075",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617758": {
+        "candidate_name": "ORCHU VENKATA JASWANT RAO",
+        "mother_name": "ORCHU MUNEESWARAMMA",
+        "father_name": "ORCHU SREENIVASA RAO",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "oo755902",
+        "marks_percentage_without_add": 74.4,
+        "marks_percentage_with_add": 73.0,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "051",
+                "practical": "020",
+                "marks": "071",
+                "positional_grade": "C1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "044",
+                "practical": "020",
+                "marks": "064",
+                "positional_grade": "B2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "041",
+                "practical": "030",
+                "marks": "071",
+                "positional_grade": "B1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "056",
+                "practical": "030",
+                "marks": "086",
+                "positional_grade": "A2"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "050",
+                "practical": "030",
+                "marks": "080",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "036",
+                "practical": "030",
+                "marks": "066",
+                "positional_grade": "C2"
+            }
+        }
+    },
+    "28617759": {
+        "candidate_name": "P CHATUR TEJ",
+        "mother_name": "ANILA SREE P",
+        "father_name": "P TEJA PAVAN KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "pa755902",
+        "marks_percentage_without_add": 85.0,
+        "marks_percentage_with_add": 83.5,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "068",
+                "practical": "020",
+                "marks": "088",
+                "positional_grade": "A2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "060",
+                "practical": "020",
+                "marks": "080",
+                "positional_grade": "A2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "048",
+                "practical": "030",
+                "marks": "078",
+                "positional_grade": "A2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "062",
+                "practical": "030",
+                "marks": "092",
+                "positional_grade": "A1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "057",
+                "practical": "030",
+                "marks": "087",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A2"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "047",
+                "practical": "029",
+                "marks": "076",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617760": {
+        "candidate_name": "PRABHAKAR PATEL",
+        "mother_name": "PREETI PATEL",
+        "father_name": "INDRA KUMAR PATEL",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "pp765902",
+        "marks_percentage_without_add": 76.4,
+        "marks_percentage_with_add": 76.17,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "063",
+                "practical": "020",
+                "marks": "083",
+                "positional_grade": "B1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "039",
+                "practical": "020",
+                "marks": "059",
+                "positional_grade": "C1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "045",
+                "practical": "030",
+                "marks": "075",
+                "positional_grade": "A2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "053",
+                "practical": "030",
+                "marks": "083",
+                "positional_grade": "A2"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "052",
+                "practical": "030",
+                "marks": "082",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "045",
+                "practical": "030",
+                "marks": "075",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617761": {
+        "candidate_name": "PRABHALA LALITH BHARDWAJA",
+        "mother_name": "PRABHALA SAROJANAMMA",
+        "father_name": "PRABHALA RAMA KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "pp765902",
+        "marks_percentage_without_add": 80.4,
+        "marks_percentage_with_add": 79.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "063",
+                "practical": "020",
+                "marks": "083",
+                "positional_grade": "B1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "049",
+                "practical": "020",
+                "marks": "069",
+                "positional_grade": "B1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "046",
+                "practical": "030",
+                "marks": "076",
+                "positional_grade": "A2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "061",
+                "practical": "030",
+                "marks": "091",
+                "positional_grade": "A1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "053",
+                "practical": "030",
+                "marks": "083",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "047",
+                "practical": "030",
+                "marks": "077",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617762": {
+        "candidate_name": "PRATEEK RAJ PAL",
+        "mother_name": "SHILA KUMARI PAL",
+        "father_name": "SHIV PAL SINGH",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ps765902",
+        "marks_percentage_without_add": 91.8,
+        "marks_percentage_with_add": 92.5,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "072",
+                "practical": "020",
+                "marks": "092",
+                "positional_grade": "A1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "069",
+                "practical": "020",
+                "marks": "089",
+                "positional_grade": "A1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "055",
+                "practical": "030",
+                "marks": "085",
+                "positional_grade": "A1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "065",
+                "practical": "030",
+                "marks": "095",
+                "positional_grade": "A1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "068",
+                "practical": "030",
+                "marks": "098",
+                "positional_grade": "A1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "066",
+                "practical": "030",
+                "marks": "096",
+                "positional_grade": "A1"
+            }
+        }
+    },
+    "28617763": {
+        "candidate_name": "SAGAR PRATAP SINGH",
+        "mother_name": "KAMINI SINGH",
+        "father_name": "ALOK KUMAR SINGH",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "sk765902",
+        "marks_percentage_without_add": 69.8,
+        "marks_percentage_with_add": 72.5,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "051",
+                "practical": "020",
+                "marks": "071",
+                "positional_grade": "C1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "033",
+                "practical": "020",
+                "marks": "053",
+                "positional_grade": "C1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "046",
+                "practical": "030",
+                "marks": "076",
+                "positional_grade": "A2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "040",
+                "practical": "030",
+                "marks": "070",
+                "positional_grade": "B2"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "049",
+                "practical": "030",
+                "marks": "079",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "056",
+                "practical": "030",
+                "marks": "086",
+                "positional_grade": "A2"
+            }
+        }
+    },
+    "28617764": {
+        "candidate_name": "SAMEER KUMAR",
+        "mother_name": "MEENU",
+        "father_name": "MANOJ KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "sm765902",
+        "marks_percentage_without_add": 65.8,
+        "marks_percentage_with_add": 67.5,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "052",
+                "practical": "020",
+                "marks": "072",
+                "positional_grade": "C1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "031",
+                "practical": "020",
+                "marks": "051",
+                "positional_grade": "C2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "046",
+                "practical": "030",
+                "marks": "076",
+                "positional_grade": "A2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "031",
+                "practical": "030",
+                "marks": "061",
+                "positional_grade": "C1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "039",
+                "practical": "030",
+                "marks": "069",
+                "positional_grade": "C2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "046",
+                "practical": "030",
+                "marks": "076",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617765": {
+        "candidate_name": "SHIV KANHUA",
+        "mother_name": "REKHA SHARMA",
+        "father_name": "SUNEEL KUMAR SHARMA",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "sr765902",
+        "marks_percentage_without_add": 70.4,
+        "marks_percentage_with_add": 71.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "059",
+                "practical": "019",
+                "marks": "078",
+                "positional_grade": "B2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "036",
+                "practical": "020",
+                "marks": "056",
+                "positional_grade": "C1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "033",
+                "practical": "030",
+                "marks": "063",
+                "positional_grade": "B2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "038",
+                "practical": "030",
+                "marks": "068",
+                "positional_grade": "B2"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "057",
+                "practical": "030",
+                "marks": "087",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "049",
+                "practical": "030",
+                "marks": "079",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617766": {
+        "candidate_name": "SOURADEEPTA DAS",
+        "mother_name": "LILY DAS",
+        "father_name": "PRADIP DAS",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "sl765902",
+        "marks_percentage_without_add": 75.4,
+        "marks_percentage_with_add": 75.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "067",
+                "practical": "020",
+                "marks": "087",
+                "positional_grade": "A2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "045",
+                "practical": "020",
+                "marks": "065",
+                "positional_grade": "B2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "047",
+                "practical": "030",
+                "marks": "077",
+                "positional_grade": "A2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "036",
+                "practical": "030",
+                "marks": "066",
+                "positional_grade": "B2"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "052",
+                "practical": "030",
+                "marks": "082",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A2"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "048",
+                "practical": "030",
+                "marks": "078",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617767": {
+        "candidate_name": "VISHWANATH ADITHYA",
+        "mother_name": "VISHWANATH LATHA",
+        "father_name": "VISHWANATH OM PRAKASH",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "vv765902",
+        "marks_percentage_without_add": 72.6,
+        "marks_percentage_with_add": 72.5,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "069",
+                "practical": "020",
+                "marks": "089",
+                "positional_grade": "A2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "028",
+                "practical": "020",
+                "marks": "048",
+                "positional_grade": "D1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "034",
+                "practical": "030",
+                "marks": "064",
+                "positional_grade": "B2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "040",
+                "practical": "030",
+                "marks": "070",
+                "positional_grade": "B2"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "062",
+                "practical": "030",
+                "marks": "092",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "042",
+                "practical": "030",
+                "marks": "072",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617768": {
+        "candidate_name": "CHAITANYA SAI LANKE",
+        "mother_name": "SRI LAKSHMI LANKE",
+        "father_name": "SIVAIAH LANKE",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "cs765902",
+        "marks_percentage_without_add": 65.0,
+        "marks_percentage_with_add": 65.5,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "060",
+                "practical": "020",
+                "marks": "080",
+                "positional_grade": "B2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "028",
+                "practical": "020",
+                "marks": "048",
+                "positional_grade": "D1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "033",
+                "practical": "030",
+                "marks": "063",
+                "positional_grade": "B2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "029",
+                "practical": "030",
+                "marks": "059",
+                "positional_grade": "C2"
+            },
+            "044": {
+                "sub_name": "BIOLOGY",
+                "theory": "045",
+                "practical": "030",
+                "marks": "075",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "038",
+                "practical": "030",
+                "marks": "068",
+                "positional_grade": "C2"
+            }
+        }
+    },
+    "28617769": {
+        "candidate_name": "HELEN CHRISTINA",
+        "mother_name": "KARUNA",
+        "father_name": "MOSES MATTHEWS",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "hk765902",
+        "marks_percentage_without_add": 74.0,
+        "marks_percentage_with_add": 73.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "054",
+                "practical": "020",
+                "marks": "074",
+                "positional_grade": "C1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "065",
+                "practical": "020",
+                "marks": "085",
+                "positional_grade": "B1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "044",
+                "practical": "029",
+                "marks": "073",
+                "positional_grade": "B1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "028",
+                "practical": "030",
+                "marks": "058",
+                "positional_grade": "C2"
+            },
+            "044": {
+                "sub_name": "BIOLOGY",
+                "theory": "050",
+                "practical": "030",
+                "marks": "080",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A2"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "044",
+                "practical": "029",
+                "marks": "073",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617771": {
+        "candidate_name": "RISHIKA RAI",
+        "mother_name": "KIRAN RAI",
+        "father_name": "BIPIN BIHARI RAI",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "rk775902",
+        "marks_percentage_without_add": 80.6,
+        "marks_percentage_with_add": 83.0,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "072",
+                "practical": "020",
+                "marks": "092",
+                "positional_grade": "A1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "065",
+                "practical": "020",
+                "marks": "085",
+                "positional_grade": "B1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "032",
+                "practical": "030",
+                "marks": "062",
+                "positional_grade": "C1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "044",
+                "practical": "030",
+                "marks": "074",
+                "positional_grade": "B1"
+            },
+            "044": {
+                "sub_name": "BIOLOGY",
+                "theory": "060",
+                "practical": "030",
+                "marks": "090",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "065",
+                "practical": "030",
+                "marks": "095",
+                "positional_grade": "A1"
+            }
+        }
+    },
+    "28617772": {
+        "candidate_name": "VANDANA GOSWAMI",
+        "mother_name": "PAWAN BHARTI",
+        "father_name": "BHANWAR BHARTI GOSWAMI",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "vp775902",
+        "marks_percentage_without_add": 76.8,
+        "marks_percentage_with_add": 77.0,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "065",
+                "practical": "020",
+                "marks": "085",
+                "positional_grade": "B1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "073",
+                "practical": "020",
+                "marks": "093",
+                "positional_grade": "A1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "042",
+                "practical": "030",
+                "marks": "072",
+                "positional_grade": "B1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "027",
+                "practical": "030",
+                "marks": "057",
+                "positional_grade": "C2"
+            },
+            "044": {
+                "sub_name": "BIOLOGY",
+                "theory": "047",
+                "practical": "030",
+                "marks": "077",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "048",
+                "practical": "030",
+                "marks": "078",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617773": {
+        "candidate_name": "ADITYA KUMAR",
+        "mother_name": "GEETA",
+        "father_name": "SANJAY KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ag775902",
+        "marks_percentage_without_add": 63.6,
+        "marks_percentage_with_add": 63.33,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "040",
+                "practical": "020",
+                "marks": "060",
+                "positional_grade": "D1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "047",
+                "practical": "020",
+                "marks": "067",
+                "positional_grade": "D1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "038",
+                "practical": "028",
+                "marks": "066",
+                "positional_grade": "B2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "037",
+                "practical": "029",
+                "marks": "066",
+                "positional_grade": "B2"
+            },
+            "044": {
+                "sub_name": "BIOLOGY",
+                "theory": "030",
+                "practical": "029",
+                "marks": "059",
+                "positional_grade": "C2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "032",
+                "practical": "030",
+                "marks": "062",
+                "positional_grade": "D1"
+            }
+        }
+    },
+    "28617774": {
+        "candidate_name": "GANESH KRISHNA JAMBAGI",
+        "mother_name": "MANJULA K JAMBAGI",
+        "father_name": "KRISHNA S JAMBAGI",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "gm775902",
+        "marks_percentage_without_add": 67.8,
+        "marks_percentage_with_add": 68.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "056",
+                "practical": "020",
+                "marks": "076",
+                "positional_grade": "C1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "059",
+                "practical": "020",
+                "marks": "079",
+                "positional_grade": "B2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "033",
+                "practical": "029",
+                "marks": "062",
+                "positional_grade": "C1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "029",
+                "practical": "030",
+                "marks": "059",
+                "positional_grade": "C2"
+            },
+            "044": {
+                "sub_name": "BIOLOGY",
+                "theory": "033",
+                "practical": "030",
+                "marks": "063",
+                "positional_grade": "C2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "043",
+                "practical": "030",
+                "marks": "073",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617775": {
+        "candidate_name": "KARNATI VENKATESHWAR REDDY",
+        "mother_name": "KARNATI RAJITHA",
+        "father_name": "KARNATI KRISHNA REDDY",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "kk775902",
+        "marks_percentage_without_add": 71.0,
+        "marks_percentage_with_add": 72.17,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "053",
+                "practical": "020",
+                "marks": "073",
+                "positional_grade": "C1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "049",
+                "practical": "020",
+                "marks": "069",
+                "positional_grade": "C2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "044",
+                "practical": "030",
+                "marks": "074",
+                "positional_grade": "A2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "039",
+                "practical": "030",
+                "marks": "069",
+                "positional_grade": "B2"
+            },
+            "044": {
+                "sub_name": "BIOLOGY",
+                "theory": "040",
+                "practical": "030",
+                "marks": "070",
+                "positional_grade": "C1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "049",
+                "practical": "029",
+                "marks": "078",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617776": {
+        "candidate_name": "M MAHICHEND",
+        "mother_name": "M ANU RADHA",
+        "father_name": "M PRATAP KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "mm775902",
+        "marks_percentage_without_add": 68.2,
+        "marks_percentage_with_add": 68.5,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "061",
+                "practical": "020",
+                "marks": "081",
+                "positional_grade": "B2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "042",
+                "practical": "020",
+                "marks": "062",
+                "positional_grade": "D1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "034",
+                "practical": "030",
+                "marks": "064",
+                "positional_grade": "B2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "034",
+                "practical": "030",
+                "marks": "064",
+                "positional_grade": "C1"
+            },
+            "044": {
+                "sub_name": "BIOLOGY",
+                "theory": "041",
+                "practical": "029",
+                "marks": "070",
+                "positional_grade": "C1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A2"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "041",
+                "practical": "029",
+                "marks": "070",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617777": {
+        "candidate_name": "MEKALA LAXMI PRASAD",
+        "mother_name": "M SHARADA",
+        "father_name": "M RAMASWAMY",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "mm775902",
+        "marks_percentage_without_add": 67.6,
+        "marks_percentage_with_add": 68.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "054",
+                "practical": "020",
+                "marks": "074",
+                "positional_grade": "C1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "038",
+                "practical": "020",
+                "marks": "058",
+                "positional_grade": "D2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "032",
+                "practical": "030",
+                "marks": "062",
+                "positional_grade": "C1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "037",
+                "practical": "030",
+                "marks": "067",
+                "positional_grade": "B2"
+            },
+            "044": {
+                "sub_name": "BIOLOGY",
+                "theory": "047",
+                "practical": "030",
+                "marks": "077",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "044",
+                "practical": "030",
+                "marks": "074",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617778": {
+        "candidate_name": "MOHD SHAFI ALLAM",
+        "mother_name": "KHAIRUN KHATOON",
+        "father_name": "MOHD SHARFUDDIN",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "mk775902",
+        "marks_percentage_without_add": 86.0,
+        "marks_percentage_with_add": 86.17,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "065",
+                "practical": "020",
+                "marks": "085",
+                "positional_grade": "B1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "072",
+                "practical": "020",
+                "marks": "092",
+                "positional_grade": "A1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "055",
+                "practical": "030",
+                "marks": "085",
+                "positional_grade": "A1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "050",
+                "practical": "030",
+                "marks": "080",
+                "positional_grade": "A2"
+            },
+            "044": {
+                "sub_name": "BIOLOGY",
+                "theory": "058",
+                "practical": "030",
+                "marks": "088",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "057",
+                "practical": "030",
+                "marks": "087",
+                "positional_grade": "A2"
+            }
+        }
+    },
+    "28617779": {
+        "candidate_name": "SAI SIDDHARTH KUMAR",
+        "mother_name": "SARITHA DEVI",
+        "father_name": "SANJAY KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ss775902",
+        "marks_percentage_without_add": 66.2,
+        "marks_percentage_with_add": 67.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "046",
+                "practical": "020",
+                "marks": "066",
+                "positional_grade": "C2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "048",
+                "practical": "020",
+                "marks": "068",
+                "positional_grade": "C2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "030",
+                "practical": "028",
+                "marks": "058",
+                "positional_grade": "C2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "036",
+                "practical": "029",
+                "marks": "065",
+                "positional_grade": "B2"
+            },
+            "044": {
+                "sub_name": "BIOLOGY",
+                "theory": "044",
+                "practical": "030",
+                "marks": "074",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "046",
+                "practical": "030",
+                "marks": "076",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617780": {
+        "candidate_name": "AAYUSHI SUBHASH PALLOD",
+        "mother_name": "SWATI SUBHASH PALLOD",
+        "father_name": "SUBHASH BANKATLALJI PALLOD",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "as785902",
+        "marks_percentage_without_add": 95.4,
+        "marks_percentage_with_add": 95.33,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "075",
+                "practical": "020",
+                "marks": "095",
+                "positional_grade": "A1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "076",
+                "practical": "020",
+                "marks": "096",
+                "positional_grade": "A1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "067",
+                "practical": "020",
+                "marks": "087",
+                "positional_grade": "A1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "080",
+                "practical": "020",
+                "marks": "100",
+                "positional_grade": "A1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "079",
+                "practical": "020",
+                "marks": "099",
+                "positional_grade": "A1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "065",
+                "practical": "030",
+                "marks": "095",
+                "positional_grade": "A1"
+            }
+        }
+    },
+    "28617781": {
+        "candidate_name": "AKANKSHA",
+        "mother_name": "MADHUBALA SINGH",
+        "father_name": "AKHILESHWAR KUMAR SINGH",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "am785902",
+        "marks_percentage_without_add": 65.0,
+        "marks_percentage_with_add": 65.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "058",
+                "practical": "020",
+                "marks": "078",
+                "positional_grade": "B2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "045",
+                "practical": "020",
+                "marks": "065",
+                "positional_grade": "C1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "027",
+                "practical": "020",
+                "marks": "047",
+                "positional_grade": "D1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "052",
+                "practical": "020",
+                "marks": "072",
+                "positional_grade": "B2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "043",
+                "practical": "020",
+                "marks": "063",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "039",
+                "practical": "030",
+                "marks": "069",
+                "positional_grade": "C2"
+            }
+        }
+    },
+    "28617782": {
+        "candidate_name": "ANYA CHAUDHARY",
+        "mother_name": "KIRAN DEVI",
+        "father_name": "RITU RAJ SINGH",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ak785902",
+        "marks_percentage_without_add": 90.2,
+        "marks_percentage_with_add": 89.5,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "066",
+                "practical": "020",
+                "marks": "086",
+                "positional_grade": "B1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "072",
+                "practical": "020",
+                "marks": "092",
+                "positional_grade": "A1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "066",
+                "practical": "020",
+                "marks": "086",
+                "positional_grade": "A1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "075",
+                "practical": "020",
+                "marks": "095",
+                "positional_grade": "A1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "072",
+                "practical": "020",
+                "marks": "092",
+                "positional_grade": "A1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "056",
+                "practical": "030",
+                "marks": "086",
+                "positional_grade": "A2"
+            }
+        }
+    },
+    "28617783": {
+        "candidate_name": "EDIGA DEEPTHI",
+        "mother_name": "EDIGA ANJANAMMA",
+        "father_name": "EDIGA MURALI MOHAN GOUD",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ee785902",
+        "marks_percentage_without_add": 80.0,
+        "marks_percentage_with_add": 78.0,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "063",
+                "practical": "020",
+                "marks": "083",
+                "positional_grade": "B1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "067",
+                "practical": "020",
+                "marks": "087",
+                "positional_grade": "A2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "048",
+                "practical": "020",
+                "marks": "068",
+                "positional_grade": "B1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "063",
+                "practical": "020",
+                "marks": "083",
+                "positional_grade": "A2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "059",
+                "practical": "020",
+                "marks": "079",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A2"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "038",
+                "practical": "030",
+                "marks": "068",
+                "positional_grade": "C2"
+            }
+        }
+    },
+    "28617784": {
+        "candidate_name": "MEDHA RAWAT",
+        "mother_name": "NEERU RAWAT",
+        "father_name": "RAJE SINGH RAWAT",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "mn785902",
+        "marks_percentage_without_add": 92.4,
+        "marks_percentage_with_add": 91.17,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "074",
+                "practical": "020",
+                "marks": "094",
+                "positional_grade": "A1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "070",
+                "practical": "020",
+                "marks": "090",
+                "positional_grade": "A2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "067",
+                "practical": "020",
+                "marks": "087",
+                "positional_grade": "A1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "076",
+                "practical": "020",
+                "marks": "096",
+                "positional_grade": "A1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "075",
+                "practical": "020",
+                "marks": "095",
+                "positional_grade": "A1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "055",
+                "practical": "030",
+                "marks": "085",
+                "positional_grade": "A2"
+            }
+        }
+    },
+    "28617785": {
+        "candidate_name": "SNEHA PAL",
+        "mother_name": "SHYAMALI PAL",
+        "father_name": "SWAPAN PAUL",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ss785902",
+        "marks_percentage_without_add": 82.2,
+        "marks_percentage_with_add": 82.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "063",
+                "practical": "020",
+                "marks": "083",
+                "positional_grade": "B1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "062",
+                "practical": "020",
+                "marks": "082",
+                "positional_grade": "B1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "049",
+                "practical": "020",
+                "marks": "069",
+                "positional_grade": "B1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "061",
+                "practical": "020",
+                "marks": "081",
+                "positional_grade": "B1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "076",
+                "practical": "020",
+                "marks": "096",
+                "positional_grade": "A1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "056",
+                "practical": "030",
+                "marks": "086",
+                "positional_grade": "A2"
+            }
+        }
+    },
+    "28617786": {
+        "candidate_name": "ZEBA TABASSUM",
+        "mother_name": "SHAHINAZ",
+        "father_name": "MOHAMMED HUSSAIN",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "zs785902",
+        "marks_percentage_without_add": 81.0,
+        "marks_percentage_with_add": 80.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "073",
+                "practical": "020",
+                "marks": "093",
+                "positional_grade": "A1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "066",
+                "practical": "020",
+                "marks": "086",
+                "positional_grade": "A2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "033",
+                "practical": "020",
+                "marks": "053",
+                "positional_grade": "C1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "071",
+                "practical": "020",
+                "marks": "091",
+                "positional_grade": "A1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "062",
+                "practical": "020",
+                "marks": "082",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "049",
+                "practical": "030",
+                "marks": "079",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617787": {
+        "candidate_name": "B S SUVARN",
+        "mother_name": "B S SRI DEVI",
+        "father_name": "B R SAI KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "bb785902",
+        "marks_percentage_without_add": 62.2,
+        "marks_percentage_with_add": 62.33,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "043",
+                "practical": "020",
+                "marks": "063",
+                "positional_grade": "D1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "041",
+                "practical": "020",
+                "marks": "061",
+                "positional_grade": "C2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "027",
+                "practical": "020",
+                "marks": "047",
+                "positional_grade": "D1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "056",
+                "practical": "020",
+                "marks": "076",
+                "positional_grade": "B1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "044",
+                "practical": "020",
+                "marks": "064",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "033",
+                "practical": "030",
+                "marks": "063",
+                "positional_grade": "D1"
+            }
+        }
+    },
+    "28617788": {
+        "candidate_name": "DHRUV KANHUA",
+        "mother_name": "REKHA SHARMA",
+        "father_name": "SUNEEL KUMAR SHARMA",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "dr785902",
+        "marks_percentage_without_add": 72.0,
+        "marks_percentage_with_add": 71.17,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "069",
+                "practical": "020",
+                "marks": "089",
+                "positional_grade": "A2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "050",
+                "practical": "020",
+                "marks": "070",
+                "positional_grade": "B2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "027",
+                "practical": "020",
+                "marks": "047",
+                "positional_grade": "D1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "058",
+                "practical": "020",
+                "marks": "078",
+                "positional_grade": "B1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "056",
+                "practical": "020",
+                "marks": "076",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "037",
+                "practical": "030",
+                "marks": "067",
+                "positional_grade": "C2"
+            }
+        }
+    },
+    "28617789": {
+        "candidate_name": "N NIHAL",
+        "mother_name": "N HARITHA",
+        "father_name": "N ANAND",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "nn785902",
+        "marks_percentage_without_add": 76.8,
+        "marks_percentage_with_add": 75.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "062",
+                "practical": "019",
+                "marks": "081",
+                "positional_grade": "B2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "057",
+                "practical": "020",
+                "marks": "077",
+                "positional_grade": "B1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "047",
+                "practical": "020",
+                "marks": "067",
+                "positional_grade": "B1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "059",
+                "practical": "020",
+                "marks": "079",
+                "positional_grade": "B1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "060",
+                "practical": "020",
+                "marks": "080",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "040",
+                "practical": "030",
+                "marks": "070",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617790": {
+        "candidate_name": "ADITI",
+        "mother_name": "GEETA",
+        "father_name": "SANJAY KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ag795902",
+        "marks_percentage_without_add": 66.0,
+        "marks_percentage_with_add": 66.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "051",
+                "practical": "020",
+                "marks": "071",
+                "positional_grade": "C1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "045",
+                "practical": "020",
+                "marks": "065",
+                "positional_grade": "D1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "042",
+                "practical": "019",
+                "marks": "061",
+                "positional_grade": "C2"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "060",
+                "practical": "020",
+                "marks": "080",
+                "positional_grade": "B1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "033",
+                "practical": "020",
+                "marks": "053",
+                "positional_grade": "C1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "040",
+                "practical": "030",
+                "marks": "070",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617791": {
+        "candidate_name": "AFREEN",
+        "mother_name": "SHAHEDA BEGUM",
+        "father_name": "REZWAN",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "as795902",
+        "marks_percentage_without_add": 61.4,
+        "marks_percentage_with_add": 64.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "041",
+                "practical": "020",
+                "marks": "061",
+                "positional_grade": "D1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "037",
+                "practical": "020",
+                "marks": "057",
+                "positional_grade": "D2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "048",
+                "practical": "019",
+                "marks": "067",
+                "positional_grade": "C1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "036",
+                "practical": "020",
+                "marks": "056",
+                "positional_grade": "C2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "046",
+                "practical": "020",
+                "marks": "066",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "051",
+                "practical": "030",
+                "marks": "081",
+                "positional_grade": "B1"
+            }
+        }
+    },
+    "28617792": {
+        "candidate_name": "BORUGADDA SWAPNIKA",
+        "mother_name": "B PADMA",
+        "father_name": "B RAMBABU",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "bb795902",
+        "marks_percentage_without_add": 67.8,
+        "marks_percentage_with_add": 68.33,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "051",
+                "practical": "020",
+                "marks": "071",
+                "positional_grade": "C1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "044",
+                "practical": "020",
+                "marks": "064",
+                "positional_grade": "D1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "058",
+                "practical": "020",
+                "marks": "078",
+                "positional_grade": "B1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "046",
+                "practical": "019",
+                "marks": "065",
+                "positional_grade": "C1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "041",
+                "practical": "020",
+                "marks": "061",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "041",
+                "practical": "030",
+                "marks": "071",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617793": {
+        "candidate_name": "DURVA SANDIP MAHALE",
+        "mother_name": "MAHALE REENA S",
+        "father_name": "MAHALE SANDIP N",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "dm795902",
+        "marks_percentage_without_add": 74.6,
+        "marks_percentage_with_add": 75.0,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "058",
+                "practical": "020",
+                "marks": "078",
+                "positional_grade": "B2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "057",
+                "practical": "020",
+                "marks": "077",
+                "positional_grade": "C1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "055",
+                "practical": "020",
+                "marks": "075",
+                "positional_grade": "B2"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "060",
+                "practical": "020",
+                "marks": "080",
+                "positional_grade": "B1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "043",
+                "practical": "020",
+                "marks": "063",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "047",
+                "practical": "030",
+                "marks": "077",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617794": {
+        "candidate_name": "GADUSUNURI ASMITHA",
+        "mother_name": "G RAMA DEVI",
+        "father_name": "G VENKATA RAMI REDDY",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "gg795902",
+        "marks_percentage_without_add": 82.0,
+        "marks_percentage_with_add": 83.33,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "070",
+                "practical": "020",
+                "marks": "090",
+                "positional_grade": "A2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "070",
+                "practical": "020",
+                "marks": "090",
+                "positional_grade": "A2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "057",
+                "practical": "020",
+                "marks": "077",
+                "positional_grade": "B1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "070",
+                "practical": "020",
+                "marks": "090",
+                "positional_grade": "A2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "043",
+                "practical": "020",
+                "marks": "063",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "060",
+                "practical": "030",
+                "marks": "090",
+                "positional_grade": "A1"
+            }
+        }
+    },
+    "28617795": {
+        "candidate_name": "GOLLIPELLI GNANA SAROJINI",
+        "mother_name": "GOLLIPELLI RAJANI",
+        "father_name": "GOLLIPELLI SRINIVASU",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "gg795902",
+        "marks_percentage_without_add": 63.8,
+        "marks_percentage_with_add": 66.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "049",
+                "practical": "020",
+                "marks": "069",
+                "positional_grade": "C2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "040",
+                "practical": "020",
+                "marks": "060",
+                "positional_grade": "D1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "051",
+                "practical": "020",
+                "marks": "071",
+                "positional_grade": "B2"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "045",
+                "practical": "020",
+                "marks": "065",
+                "positional_grade": "C1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "035",
+                "practical": "019",
+                "marks": "054",
+                "positional_grade": "C1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "052",
+                "practical": "030",
+                "marks": "082",
+                "positional_grade": "B1"
+            }
+        }
+    },
+    "28617796": {
+        "candidate_name": "MANIKYALA TVISHA",
+        "mother_name": "M RANI",
+        "father_name": "M DEENA REDDY",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "mm795902",
+        "marks_percentage_without_add": 57.6,
+        "marks_percentage_with_add": 59.33,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "051",
+                "practical": "020",
+                "marks": "071",
+                "positional_grade": "C1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "034",
+                "practical": "020",
+                "marks": "054",
+                "positional_grade": "D2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "028",
+                "practical": "020",
+                "marks": "048",
+                "positional_grade": "D1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "046",
+                "practical": "020",
+                "marks": "066",
+                "positional_grade": "C1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "030",
+                "practical": "019",
+                "marks": "049",
+                "positional_grade": "C2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "038",
+                "practical": "030",
+                "marks": "068",
+                "positional_grade": "C2"
+            }
+        }
+    },
+    "28617797": {
+        "candidate_name": "MANNAT",
+        "mother_name": "NEELAM KUMARI SINGH",
+        "father_name": "SUNIL KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "mn795902",
+        "marks_percentage_without_add": 76.2,
+        "marks_percentage_with_add": 76.5,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "063",
+                "practical": "020",
+                "marks": "083",
+                "positional_grade": "B1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "069",
+                "practical": "020",
+                "marks": "089",
+                "positional_grade": "A2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "054",
+                "practical": "020",
+                "marks": "074",
+                "positional_grade": "B2"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "053",
+                "practical": "020",
+                "marks": "073",
+                "positional_grade": "B2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "042",
+                "practical": "020",
+                "marks": "062",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A2"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "049",
+                "practical": "029",
+                "marks": "078",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617798": {
+        "candidate_name": "MEHNOOR TAJ",
+        "mother_name": "RAHEEMA BEGUM",
+        "father_name": "BASHEER PASHA",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "mr795902",
+        "marks_percentage_without_add": 75.8,
+        "marks_percentage_with_add": 75.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "065",
+                "practical": "020",
+                "marks": "085",
+                "positional_grade": "B1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "059",
+                "practical": "020",
+                "marks": "079",
+                "positional_grade": "B2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "045",
+                "practical": "020",
+                "marks": "065",
+                "positional_grade": "C1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "057",
+                "practical": "020",
+                "marks": "077",
+                "positional_grade": "B1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "053",
+                "practical": "020",
+                "marks": "073",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "046",
+                "practical": "030",
+                "marks": "076",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617799": {
+        "candidate_name": "MUKTHAR UNNISA BEGUM",
+        "mother_name": "MALAKA JEHAN",
+        "father_name": "SYED MUSTAKEEM",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "mm795902",
+        "marks_percentage_without_add": 62.4,
+        "marks_percentage_with_add": 63.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "057",
+                "practical": "020",
+                "marks": "077",
+                "positional_grade": "B2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "041",
+                "practical": "020",
+                "marks": "061",
+                "positional_grade": "D1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "030",
+                "practical": "020",
+                "marks": "050",
+                "positional_grade": "D1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "050",
+                "practical": "020",
+                "marks": "070",
+                "positional_grade": "B2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "034",
+                "practical": "020",
+                "marks": "054",
+                "positional_grade": "C1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "041",
+                "practical": "030",
+                "marks": "071",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617800": {
+        "candidate_name": "P MAHATHI RAMYA",
+        "mother_name": "P LAHARIKA",
+        "father_name": "P SRINIVAS",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "pp805902",
+        "marks_percentage_without_add": 96.0,
+        "marks_percentage_with_add": 93.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "073",
+                "practical": "020",
+                "marks": "093",
+                "positional_grade": "A1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "075",
+                "practical": "020",
+                "marks": "095",
+                "positional_grade": "A1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "077",
+                "practical": "020",
+                "marks": "097",
+                "positional_grade": "A1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "078",
+                "practical": "020",
+                "marks": "098",
+                "positional_grade": "A1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "077",
+                "practical": "020",
+                "marks": "097",
+                "positional_grade": "A1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "052",
+                "practical": "030",
+                "marks": "082",
+                "positional_grade": "B1"
+            }
+        }
+    },
+    "28617801": {
+        "candidate_name": "PALAKOTI HOLY GRACE",
+        "mother_name": "PALAKOTI THABITHA KUMARI",
+        "father_name": "PALAKOTI SRINIVAS",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "pp805902",
+        "marks_percentage_without_add": 58.8,
+        "marks_percentage_with_add": 61.0,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "048",
+                "practical": "020",
+                "marks": "068",
+                "positional_grade": "C2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "049",
+                "practical": "020",
+                "marks": "069",
+                "positional_grade": "C2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "027",
+                "practical": "019",
+                "marks": "046",
+                "positional_grade": "D2"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "035",
+                "practical": "019",
+                "marks": "054",
+                "positional_grade": "C2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "038",
+                "practical": "019",
+                "marks": "057",
+                "positional_grade": "C1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "042",
+                "practical": "030",
+                "marks": "072",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617802": {
+        "candidate_name": "PRIYANKA KUMARI",
+        "mother_name": "SANGEETA DEVI",
+        "father_name": "LALIT KUMAR PASWAN",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ps805902",
+        "marks_percentage_without_add": 75.2,
+        "marks_percentage_with_add": 75.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "060",
+                "practical": "020",
+                "marks": "080",
+                "positional_grade": "B2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "066",
+                "practical": "020",
+                "marks": "086",
+                "positional_grade": "B1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "047",
+                "practical": "020",
+                "marks": "067",
+                "positional_grade": "C1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "064",
+                "practical": "020",
+                "marks": "084",
+                "positional_grade": "A2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "039",
+                "practical": "020",
+                "marks": "059",
+                "positional_grade": "C1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "048",
+                "practical": "030",
+                "marks": "078",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617803": {
+        "candidate_name": "S MANSA",
+        "mother_name": "S SAVITHRI",
+        "father_name": "VENKATESHWARALU S",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ss805902",
+        "marks_percentage_without_add": 69.2,
+        "marks_percentage_with_add": 69.0,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "060",
+                "practical": "020",
+                "marks": "080",
+                "positional_grade": "B2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "064",
+                "practical": "020",
+                "marks": "084",
+                "positional_grade": "B1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "055",
+                "practical": "020",
+                "marks": "075",
+                "positional_grade": "B2"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "040",
+                "practical": "019",
+                "marks": "059",
+                "positional_grade": "C2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "029",
+                "practical": "019",
+                "marks": "048",
+                "positional_grade": "D1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "038",
+                "practical": "030",
+                "marks": "068",
+                "positional_grade": "C2"
+            }
+        }
+    },
+    "28617804": {
+        "candidate_name": "S SAI ISHWARYA",
+        "mother_name": "S ARCHANA",
+        "father_name": "S SANTHOSH",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ss805902",
+        "marks_percentage_without_add": 60.2,
+        "marks_percentage_with_add": 61.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "048",
+                "practical": "020",
+                "marks": "068",
+                "positional_grade": "C2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "044",
+                "practical": "019",
+                "marks": "063",
+                "positional_grade": "D1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "034",
+                "practical": "020",
+                "marks": "054",
+                "positional_grade": "D1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "031",
+                "practical": "020",
+                "marks": "051",
+                "positional_grade": "D1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "045",
+                "practical": "020",
+                "marks": "065",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "040",
+                "practical": "030",
+                "marks": "070",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617805": {
+        "candidate_name": "THANNIRU YUKTHASRI",
+        "mother_name": "T SRIDEVI",
+        "father_name": "T RAMESH",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "tt805902",
+        "marks_percentage_without_add": 70.4,
+        "marks_percentage_with_add": 71.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "065",
+                "practical": "020",
+                "marks": "085",
+                "positional_grade": "B1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "042",
+                "practical": "020",
+                "marks": "062",
+                "positional_grade": "D1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "042",
+                "practical": "020",
+                "marks": "062",
+                "positional_grade": "C1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "065",
+                "practical": "020",
+                "marks": "085",
+                "positional_grade": "A2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "038",
+                "practical": "020",
+                "marks": "058",
+                "positional_grade": "C1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "049",
+                "practical": "030",
+                "marks": "079",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617806": {
+        "candidate_name": "ARSH KUMAR",
+        "mother_name": "RENU YADAV",
+        "father_name": "ANIL KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ar805902",
+        "marks_percentage_without_add": 67.8,
+        "marks_percentage_with_add": 69.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "050",
+                "practical": "020",
+                "marks": "070",
+                "positional_grade": "C2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "060",
+                "practical": "020",
+                "marks": "080",
+                "positional_grade": "B2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "043",
+                "practical": "020",
+                "marks": "063",
+                "positional_grade": "C1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "046",
+                "practical": "020",
+                "marks": "066",
+                "positional_grade": "C1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "040",
+                "practical": "020",
+                "marks": "060",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "049",
+                "practical": "030",
+                "marks": "079",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617807": {
+        "candidate_name": "AYUSH KUMAR",
+        "mother_name": "SALITA KAMATI",
+        "father_name": "ASHOK KUMAR KAMATI",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "as805902",
+        "marks_percentage_without_add": 68.4,
+        "marks_percentage_with_add": 69.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "050",
+                "practical": "020",
+                "marks": "070",
+                "positional_grade": "C2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "052",
+                "practical": "020",
+                "marks": "072",
+                "positional_grade": "C2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "040",
+                "practical": "019",
+                "marks": "059",
+                "positional_grade": "C2"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "048",
+                "practical": "020",
+                "marks": "068",
+                "positional_grade": "C1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "053",
+                "practical": "020",
+                "marks": "073",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "046",
+                "practical": "030",
+                "marks": "076",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617808": {
+        "candidate_name": "B S SUVAS",
+        "mother_name": "B S SRI DEVI",
+        "father_name": "B R SAI KUMAR",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "bb805902",
+        "marks_percentage_without_add": 75.8,
+        "marks_percentage_with_add": 75.83,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "057",
+                "practical": "020",
+                "marks": "077",
+                "positional_grade": "B2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "052",
+                "practical": "020",
+                "marks": "072",
+                "positional_grade": "C2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "046",
+                "practical": "020",
+                "marks": "066",
+                "positional_grade": "C1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "065",
+                "practical": "020",
+                "marks": "085",
+                "positional_grade": "A2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "059",
+                "practical": "020",
+                "marks": "079",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "046",
+                "practical": "030",
+                "marks": "076",
+                "positional_grade": "B2"
+            }
+        }
+    },
+    "28617809": {
+        "candidate_name": "CHINTAPALLI CHARAN TEJA",
+        "mother_name": "CHINTAPALLI DIVYA",
+        "father_name": "CHINTAPALLI JOHNSON",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "cc805902",
+        "marks_percentage_without_add": 67.4,
+        "marks_percentage_with_add": 68.17,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "056",
+                "practical": "020",
+                "marks": "076",
+                "positional_grade": "C1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "048",
+                "practical": "020",
+                "marks": "068",
+                "positional_grade": "C2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "048",
+                "practical": "020",
+                "marks": "068",
+                "positional_grade": "C1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "044",
+                "practical": "020",
+                "marks": "064",
+                "positional_grade": "C1"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "041",
+                "practical": "020",
+                "marks": "061",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "042",
+                "practical": "030",
+                "marks": "072",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617810": {
+        "candidate_name": "CHUKKA AKSHITH NARAYANA",
+        "mother_name": "CHUKKA SUDHA",
+        "father_name": "CHUKKA SATYANARAYANA",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "cc815902",
+        "marks_percentage_without_add": 52.0,
+        "marks_percentage_with_add": 55.5,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "045",
+                "practical": "020",
+                "marks": "065",
+                "positional_grade": "C2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "028",
+                "practical": "020",
+                "marks": "048",
+                "positional_grade": "D2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "027",
+                "practical": "018",
+                "marks": "045",
+                "positional_grade": "D2"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "027",
+                "practical": "019",
+                "marks": "046",
+                "positional_grade": "D2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "037",
+                "practical": "019",
+                "marks": "056",
+                "positional_grade": "C1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "043",
+                "practical": "030",
+                "marks": "073",
+                "positional_grade": "C1"
+            }
+        }
+    },
+    "28617811": {
+        "candidate_name": "D RISHIKESH RAHUL",
+        "mother_name": "D MANJULA",
+        "father_name": "D RAVINDER",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "dd815902",
+        "marks_percentage_without_add": 74.8,
+        "marks_percentage_with_add": 76.33,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "058",
+                "practical": "020",
+                "marks": "078",
+                "positional_grade": "B2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "042",
+                "practical": "020",
+                "marks": "062",
+                "positional_grade": "D1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "056",
+                "practical": "020",
+                "marks": "076",
+                "positional_grade": "B1"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "066",
+                "practical": "020",
+                "marks": "086",
+                "positional_grade": "A2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "052",
+                "practical": "020",
+                "marks": "072",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "054",
+                "practical": "030",
+                "marks": "084",
+                "positional_grade": "B1"
+            }
+        }
+    },
+    "28617812": {
+        "candidate_name": "DHARBASTH SAI ARJUN RAO",
+        "mother_name": "DHARBASTH LAVANYA RAO",
+        "father_name": "DHARBASTH RAJA SHEKAR RAO",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "dd815902",
+        "marks_percentage_without_add": 89.4,
+        "marks_percentage_with_add": 88.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "067",
+                "practical": "020",
+                "marks": "087",
+                "positional_grade": "A2"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "071",
+                "practical": "020",
+                "marks": "091",
+                "positional_grade": "A1"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "064",
+                "practical": "020",
+                "marks": "084",
+                "positional_grade": "A2"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "070",
+                "practical": "020",
+                "marks": "090",
+                "positional_grade": "A2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "075",
+                "practical": "020",
+                "marks": "095",
+                "positional_grade": "A1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "055",
+                "practical": "030",
+                "marks": "085",
+                "positional_grade": "A2"
+            }
+        }
+    },
+    "28617813": {
+        "candidate_name": "N MOSES PAUL",
+        "mother_name": "N SUSAN JYOTHSNA",
+        "father_name": "NANNEBOINA VENU",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "nn815902",
+        "marks_percentage_without_add": 73.2,
+        "marks_percentage_with_add": 75.0,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "065",
+                "practical": "020",
+                "marks": "085",
+                "positional_grade": "B1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "049",
+                "practical": "020",
+                "marks": "069",
+                "positional_grade": "C2"
+            },
+            "030": {
+                "sub_name": "ECONOMICS",
+                "theory": "050",
+                "practical": "020",
+                "marks": "070",
+                "positional_grade": "B2"
+            },
+            "054": {
+                "sub_name": "BUSINESS STUDIES",
+                "theory": "049",
+                "practical": "020",
+                "marks": "069",
+                "positional_grade": "B2"
+            },
+            "055": {
+                "sub_name": "ACCOUNTANCY",
+                "theory": "053",
+                "practical": "020",
+                "marks": "073",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "054",
+                "practical": "030",
+                "marks": "084",
+                "positional_grade": "B1"
+            }
+        }
+    },
+    "28617814": {
+        "candidate_name": "ANKITA SHARMA",
+        "mother_name": "SABITA SHARMA",
+        "father_name": "RAJENDRA SHARMA",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "as815902",
+        "marks_percentage_without_add": 85.0,
+        "marks_percentage_with_add": 85.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "072",
+                "practical": "020",
+                "marks": "092",
+                "positional_grade": "A1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "058",
+                "practical": "020",
+                "marks": "078",
+                "positional_grade": "A2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "049",
+                "practical": "030",
+                "marks": "079",
+                "positional_grade": "A2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "057",
+                "practical": "030",
+                "marks": "087",
+                "positional_grade": "A2"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "059",
+                "practical": "030",
+                "marks": "089",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "059",
+                "practical": "030",
+                "marks": "089",
+                "positional_grade": "A2"
+            }
+        }
+    },
+    "28617815": {
+        "candidate_name": "SUJAL SWAIN",
+        "mother_name": "SANJUKTA RANI SWAIN",
+        "father_name": "LAXMI NARAYAN SWAIN",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ss815902",
+        "marks_percentage_without_add": 93.8,
+        "marks_percentage_with_add": 93.8,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "067",
+                "practical": "020",
+                "marks": "087",
+                "positional_grade": "A2"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "078",
+                "practical": "020",
+                "marks": "098",
+                "positional_grade": "A1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "065",
+                "practical": "030",
+                "marks": "095",
+                "positional_grade": "A1"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "066",
+                "practical": "030",
+                "marks": "096",
+                "positional_grade": "A1"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "063",
+                "practical": "030",
+                "marks": "093",
+                "positional_grade": "A2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            }
+        }
+    },
+    "28617816": {
+        "candidate_name": "ARYAN",
+        "mother_name": "DEEPA BHARTI",
+        "father_name": "BIPIN KUMAR GIRI",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ad815902",
+        "marks_percentage_without_add": 70.8,
+        "marks_percentage_with_add": 73.33,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "065",
+                "practical": "020",
+                "marks": "085",
+                "positional_grade": "B1"
+            },
+            "041": {
+                "sub_name": "MATHEMATICS",
+                "theory": "031",
+                "practical": "020",
+                "marks": "051",
+                "positional_grade": "C2"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "036",
+                "practical": "030",
+                "marks": "066",
+                "positional_grade": "B2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "040",
+                "practical": "030",
+                "marks": "070",
+                "positional_grade": "B2"
+            },
+            "083": {
+                "sub_name": "COMPUTER SCIENCE",
+                "theory": "053",
+                "practical": "029",
+                "marks": "082",
+                "positional_grade": "B2"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "843": {
+                "sub_name": "ARTIFICIAL INTELLIGENCE",
+                "theory": "036",
+                "practical": "050",
+                "marks": "086",
+                "positional_grade": "C2"
+            }
+        }
+    },
+    "28617817": {
+        "candidate_name": "MUSHKAN PANCHE",
+        "mother_name": "SURUPATI PANCHE",
+        "father_name": "SHYAMLAL PANCHE",
+        "school_name": "PM SHRI KENDRIYA VIDYALAYA AFS BEGUMPET HYD TL",
+        "Result": "PASS",
+        "admit_id": "ms815902",
+        "marks_percentage_without_add": 81.4,
+        "marks_percentage_with_add": 81.67,
+        "marks": {
+            "301": {
+                "sub_name": "ENGLISH CORE",
+                "theory": "064",
+                "practical": "020",
+                "marks": "084",
+                "positional_grade": "B1"
+            },
+            "302": {
+                "sub_name": "HINDI CORE",
+                "theory": "072",
+                "practical": "020",
+                "marks": "092",
+                "positional_grade": "A1"
+            },
+            "042": {
+                "sub_name": "PHYSICS",
+                "theory": "034",
+                "practical": "030",
+                "marks": "064",
+                "positional_grade": "B2"
+            },
+            "043": {
+                "sub_name": "CHEMISTRY",
+                "theory": "054",
+                "practical": "030",
+                "marks": "084",
+                "positional_grade": "A2"
+            },
+            "044": {
+                "sub_name": "BIOLOGY",
+                "theory": "053",
+                "practical": "030",
+                "marks": "083",
+                "positional_grade": "B1"
+            },
+            "500": {
+                "sub_name": "WORK EXPERIENCE",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "502": {
+                "sub_name": "HEALTH & PHYSICAL EDUCATION",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A2"
+            },
+            "503": {
+                "sub_name": "GENERAL STUDIES",
+                "theory": "",
+                "practical": "",
+                "marks": "---",
+                "positional_grade": "A1"
+            },
+            "048": {
+                "sub_name": "PHYSICAL EDUCATION",
+                "theory": "053",
+                "practical": "030",
+                "marks": "083",
+                "positional_grade": "B1"
+            }
+        }
+    }
+}
